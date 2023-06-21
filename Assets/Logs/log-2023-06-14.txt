@@ -1,0 +1,313 @@
+[2023-06-14 03:15:21] --Beginning Log--
+[2023-06-14 03:15:22] Login page generated
+[2023-06-14 03:15:25] ||Closing Log||
+[2023-06-14 03:15:27] --Beginning Log--
+[2023-06-14 03:15:27] Login page generated
+[2023-06-14 03:15:32] ||Closing Log||
+[2023-06-14 03:15:55] --Beginning Log--
+[2023-06-14 03:15:55] Login page generated
+[2023-06-14 03:16:57] ||Closing Log||
+[2023-06-14 03:17:01] --Beginning Log--
+[2023-06-14 03:17:01] Login page generated
+[2023-06-14 03:17:04] ||Closing Log||
+[2023-06-14 03:17:06] --Beginning Log--
+[2023-06-14 03:17:06] Login page generated
+[2023-06-14 03:17:09] ||Closing Log||
+[2023-06-14 03:18:56] --Beginning Log--
+[2023-06-14 03:18:56] Login page generated
+[2023-06-14 03:19:07] ||Closing Log||
+[2023-06-14 03:20:32] --Beginning Log--
+[2023-06-14 03:20:32] Login page generated
+[2023-06-14 03:20:33] ||Closing Log||
+[2023-06-14 03:24:44] --Beginning Log--
+[2023-06-14 03:24:45] Login page generated
+[2023-06-14 03:24:54] Mahmud Logged in successfully
+[2023-06-14 03:24:54] Connection in create_connection: <mysql.connector.connection_cext.CMySQLConnection object at 0x000002B2A11955D0>
+[2023-06-14 03:24:56] Add a new record selected.
+[2023-06-14 03:24:56] Field created: #1
+[2023-06-14 03:24:56] Field created: #2
+[2023-06-14 03:24:56] Field created: #3
+[2023-06-14 03:24:56] Field created: #4
+[2023-06-14 03:24:56] Field created: #5
+[2023-06-14 03:24:56] Field created: #6
+[2023-06-14 03:24:56] Field created: #7
+[2023-06-14 03:24:56] Field created: #8
+[2023-06-14 03:24:56] Field created: #9
+[2023-06-14 03:24:56] Field created: #10
+[2023-06-14 03:24:56] Field created: #11
+[2023-06-14 03:24:56] Field created: #12
+[2023-06-14 03:24:57] Field created: #13
+[2023-06-14 03:25:10] View records selected.
+[2023-06-14 03:25:10] 10 total records called.
+[2023-06-14 03:28:39] Mahmud logged out.
+[2023-06-14 03:28:39] Login page generated
+[2023-06-14 03:28:41] Login page generated
+[2023-06-14 03:28:42] Login page generated
+[2023-06-14 03:28:43] ||Closing Log||
+[2023-06-14 22:22:42] --Beginning Log--
+[2023-06-14 22:22:42] Login page generated
+[2023-06-14 22:22:47] ||Closing Log||
+[2023-06-14 22:23:03] --Beginning Log--
+[2023-06-14 22:23:03] Login page generated
+[2023-06-14 22:23:11] ||Closing Log||
+[2023-06-14 22:24:19] --Beginning Log--
+[2023-06-14 22:24:19] Login page generated
+[2023-06-14 22:24:25] Login page generated
+[2023-06-14 22:24:37] ||Closing Log||
+[2023-06-14 22:26:27] --Beginning Log--
+[2023-06-14 22:26:28] Login page generated
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\tkinter\__init__.py", line 1948, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\main.py", line 250, in on_login_submit
+    connection = create_connection(ip, user, password)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\main.py", line 131, in create_connection
+    connection = mysql.connector.connect(
+                 ^^^^^^^^^^^^^^^
+AttributeError: module 'Assets.libraries.mysql' has no attribute 'connector'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\tkinter\__init__.py", line 1948, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\main.py", line 250, in on_login_submit
+    connection = create_connection(ip, user, password)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\main.py", line 131, in create_connection
+    connection = mysql.connector.connect(
+                 ^^^^^^^^^^^^^^^
+AttributeError: module 'Assets.libraries.mysql' has no attribute 'connector'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\tkinter\__init__.py", line 1948, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\main.py", line 250, in on_login_submit
+    connection = create_connection(ip, user, password)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\main.py", line 131, in create_connection
+    connection = mysql.connector.connect(
+                 ^^^^^^^^^^^^^^^
+AttributeError: module 'Assets.libraries.mysql' has no attribute 'connector'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\tkinter\__init__.py", line 1948, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\main.py", line 250, in on_login_submit
+    connection = create_connection(ip, user, password)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\main.py", line 131, in create_connection
+    connection = mysql.connector.connect(
+                 ^^^^^^^^^^^^^^^
+AttributeError: module 'Assets.libraries.mysql' has no attribute 'connector'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\tkinter\__init__.py", line 1948, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\main.py", line 250, in on_login_submit
+    connection = create_connection(ip, user, password)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\main.py", line 131, in create_connection
+    connection = mysql.connector.connect(
+                 ^^^^^^^^^^^^^^^
+AttributeError: module 'Assets.libraries.mysql' has no attribute 'connector'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\tkinter\__init__.py", line 1948, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\main.py", line 250, in on_login_submit
+    connection = create_connection(ip, user, password)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\main.py", line 131, in create_connection
+    connection = mysql.connector.connect(
+                 ^^^^^^^^^^^^^^^
+AttributeError: module 'Assets.libraries.mysql' has no attribute 'connector'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\tkinter\__init__.py", line 1948, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\main.py", line 250, in on_login_submit
+    connection = create_connection(ip, user, password)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\main.py", line 131, in create_connection
+    connection = mysql.connector.connect(
+                 ^^^^^^^^^^^^^^^
+AttributeError: module 'Assets.libraries.mysql' has no attribute 'connector'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\tkinter\__init__.py", line 1948, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\main.py", line 250, in on_login_submit
+    connection = create_connection(ip, user, password)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\main.py", line 131, in create_connection
+    connection = mysql.connector.connect(
+                 ^^^^^^^^^^^^^^^
+AttributeError: module 'Assets.libraries.mysql' has no attribute 'connector'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\tkinter\__init__.py", line 1948, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\main.py", line 250, in on_login_submit
+    connection = create_connection(ip, user, password)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\main.py", line 131, in create_connection
+    connection = mysql.connector.connect(
+                 ^^^^^^^^^^^^^^^
+AttributeError: module 'Assets.libraries.mysql' has no attribute 'connector'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\tkinter\__init__.py", line 1948, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\main.py", line 250, in on_login_submit
+    connection = create_connection(ip, user, password)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\main.py", line 131, in create_connection
+    connection = mysql.connector.connect(
+                 ^^^^^^^^^^^^^^^
+AttributeError: module 'Assets.libraries.mysql' has no attribute 'connector'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\tkinter\__init__.py", line 1948, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\main.py", line 250, in on_login_submit
+    connection = create_connection(ip, user, password)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\main.py", line 131, in create_connection
+    connection = mysql.connector.connect(
+                 ^^^^^^^^^^^^^^^
+AttributeError: module 'Assets.libraries.mysql' has no attribute 'connector'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\tkinter\__init__.py", line 1948, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\main.py", line 250, in on_login_submit
+    connection = create_connection(ip, user, password)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\main.py", line 131, in create_connection
+    connection = mysql.connector.connect(
+                 ^^^^^^^^^^^^^^^
+AttributeError: module 'Assets.libraries.mysql' has no attribute 'connector'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\tkinter\__init__.py", line 1948, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\main.py", line 250, in on_login_submit
+    connection = create_connection(ip, user, password)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\main.py", line 131, in create_connection
+    connection = mysql.connector.connect(
+                 ^^^^^^^^^^^^^^^
+AttributeError: module 'Assets.libraries.mysql' has no attribute 'connector'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\tkinter\__init__.py", line 1948, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\main.py", line 250, in on_login_submit
+    connection = create_connection(ip, user, password)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\main.py", line 131, in create_connection
+    connection = mysql.connector.connect(
+                 ^^^^^^^^^^^^^^^
+AttributeError: module 'Assets.libraries.mysql' has no attribute 'connector'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\tkinter\__init__.py", line 1948, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\main.py", line 250, in on_login_submit
+    connection = create_connection(ip, user, password)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\main.py", line 131, in create_connection
+    connection = mysql.connector.connect(
+                 ^^^^^^^^^^^^^^^
+AttributeError: module 'Assets.libraries.mysql' has no attribute 'connector'
+[2023-06-14 22:26:45] ||Closing Log||
+[2023-06-14 22:26:48] --Beginning Log--
+[2023-06-14 22:26:48] Login page generated
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\tkinter\__init__.py", line 1948, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\Main.py", line 250, in on_login_submit
+    connection = create_connection(ip, user, password)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\Main.py", line 131, in create_connection
+    connection = mysql.connector.connect(
+                 ^^^^^^^^^^^^^^^
+AttributeError: module 'Assets.libraries.mysql' has no attribute 'connector'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\tkinter\__init__.py", line 1948, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\Main.py", line 250, in on_login_submit
+    connection = create_connection(ip, user, password)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\Main.py", line 131, in create_connection
+    connection = mysql.connector.connect(
+                 ^^^^^^^^^^^^^^^
+AttributeError: module 'Assets.libraries.mysql' has no attribute 'connector'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\tkinter\__init__.py", line 1948, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\Main.py", line 250, in on_login_submit
+    connection = create_connection(ip, user, password)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\Main.py", line 131, in create_connection
+    connection = mysql.connector.connect(
+                 ^^^^^^^^^^^^^^^
+AttributeError: module 'Assets.libraries.mysql' has no attribute 'connector'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\tkinter\__init__.py", line 1948, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\Main.py", line 250, in on_login_submit
+    connection = create_connection(ip, user, password)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\Main.py", line 131, in create_connection
+    connection = mysql.connector.connect(
+                 ^^^^^^^^^^^^^^^
+AttributeError: module 'Assets.libraries.mysql' has no attribute 'connector'
+[2023-06-14 22:26:56] ||Closing Log||
+[2023-06-14 22:28:33] --Beginning Log--
+[2023-06-14 22:28:33] Login page generated
+[2023-06-14 22:28:38] Mahmud Logged in successfully
+[2023-06-14 22:28:38] Connection in create_connection: <Assets.libraries.mysql.connector.connection_cext.CMySQLConnection object at 0x000001BAB8538210>
+[2023-06-14 22:28:43] View records selected.
+[2023-06-14 22:28:43] 10 total records called.
+[2023-06-14 22:28:46] Add a new record selected.
+[2023-06-14 22:28:46] Field created: #1
+[2023-06-14 22:28:46] Field created: #2
+[2023-06-14 22:28:46] Field created: #3
+[2023-06-14 22:28:46] Field created: #4
+[2023-06-14 22:28:46] Field created: #5
+[2023-06-14 22:28:47] Field created: #6
+[2023-06-14 22:28:47] Field created: #7
+[2023-06-14 22:28:47] Field created: #8
+[2023-06-14 22:28:47] Field created: #9
+[2023-06-14 22:28:47] Field created: #10
+[2023-06-14 22:28:47] Field created: #11
+[2023-06-14 22:28:47] Field created: #12
+[2023-06-14 22:28:47] Field created: #13
+[2023-06-14 22:28:53] Mahmud logged out.
+[2023-06-14 22:28:53] Login page generated
+[2023-06-14 22:28:54] ||Closing Log||

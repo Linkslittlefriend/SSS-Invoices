@@ -1,0 +1,77 @@
+{
+    "Login_page": {
+        "L1": "User:",
+        "L2": "Password:",
+        "L3": "Submit"
+    },
+    "Main_Menu": {
+        "M1": "LOG OUT",
+        "M2": "Invoices Database",
+        "M3": "ADD RECORD",
+        "M4": "VIEW RECORD"
+    },
+    "New_Record": {
+        "N1": "Invoice Number",
+        "N2": "Customer Name",
+        "N3": "Phone Number",
+        "N4": "Invoice Date",
+        "N5": "Installation Team",
+        "N6": "Installation Date",
+        "N7": "Select categories of products",
+        "N8": "Select list of products",
+        "N9": "Warranty Ends at",
+        "N10": "Are Any Products Replaced?",
+        "N11": "List of replaced products",
+        "N12": "Select latest date of replacement",
+        "N13": "Any comments?",
+        "N14": "Add New Record",
+        "N15": "ADD RECORD",
+        "N16": "Confirm Submission",
+        "N17": "Are you sure you want to submit this record?",
+        "N18": "Submission confirmed. QR Code for this transaction below.",
+        "N20": "DOWNLOAD QR CODE",
+        "N21": "ADD ANOTHER RECORD"
+    },
+    "View_Records": {
+        "V1": "Invoice Number",
+        "V2": "Customer Name",
+        "V3": "Phone Number",
+        "V4": "Invoice Date",
+        "V5": "Installation Team",
+        "V6": "Installation Date",
+        "V7": "Product Categories",
+        "V8": "Product Codes",
+        "V9": "Warranty Date",
+        "V10": "Replaced Products?",
+        "V11": "Replaced Product Codes",
+        "V12": "Replacement Date",
+        "V13": "Comments"
+    },
+    "Messages": {
+        "E1": "ATTENTION!",
+        "E2": "Another instance of the application is already running",
+        "E3": "WARNING!",
+        "E4": "Please Log-Out First!",
+        "E5": "Success",
+        "E6": "Connection to MySQL DB successful",
+        "E7": "Error",
+        "E8": "Failed to connect to MySQL DB",
+        "E9": "WARNING!",
+        "E10": "Please Log-Out First!",
+        "E11": "{} cannot be empty",
+        "E12": "InvoiceNo must be a valid number",
+        "E13": "A record with the same InvoiceNo already exists",
+        "E14": "InvoiceDate must be a valid date in the format YYYY-MM-DD",
+        "E15": "InvoiceDate must be today's date",
+        "E16": "InstallationDate must be a valid date in the format YYYY-MM-DD",
+        "E17": "InstallationDate must be set to today or later",
+        "E18": "ReplacedDate must be a valid date in the format YYYY-MM-DD",
+        "E19": "ReplacedDate can't be before invoice date",
+        "E20": "VALIDATION ERROR",
+	"E21": "Something went wrong:"
+    },
+    "Other":{
+        "O1": "Invoice Number: {}\nPhone Number 1: {}\nPhone Number 2: {}\nPhone Number 3: {}\nWebsite: {}\nAddress: {}\nGoogle Maps: {}",
+        "O2": "عربي"
+    }
+}

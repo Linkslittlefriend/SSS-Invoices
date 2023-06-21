@@ -1,0 +1,106 @@
+[2023-06-18 20:34:13] --Beginning Log--
+Traceback (most recent call last):
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\virtual environment\main.py", line 56, in <module>
+    txC.set_language(default_language)
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\virtual environment\Assets\Scripts\TextConv.py", line 16, in set_language
+    text = json.load(f)
+           ^^^^^^^^^^^^
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 71 column 2 (char 2521)
+[2023-06-18 20:35:10] --Beginning Log--
+Traceback (most recent call last):
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\virtual environment\main.py", line 42, in <module>
+    txC.set_language(config_language)
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\virtual environment\Assets\Scripts\TextConv.py", line 16, in set_language
+    text = json.load(f)
+           ^^^^^^^^^^^^
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 71 column 2 (char 2521)
+[2023-06-18 20:36:54] --Beginning Log--
+Traceback (most recent call last):
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\virtual environment\main.py", line 42, in <module>
+    txC.set_language(config_language)
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\virtual environment\Assets\Scripts\TextConv.py", line 16, in set_language
+    text = json.load(f)
+           ^^^^^^^^^^^^
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 71 column 2 (char 2521)
+[2023-06-18 20:36:57] --Beginning Log--
+Traceback (most recent call last):
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\virtual environment\main.py", line 42, in <module>
+    txC.set_language(config_language)
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\virtual environment\Assets\Scripts\TextConv.py", line 16, in set_language
+    text = json.load(f)
+           ^^^^^^^^^^^^
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 71 column 2 (char 2521)
+[2023-06-18 20:38:03] --Beginning Log--
+[2023-06-18 20:38:03] Login page generated
+[2023-06-18 20:38:10] Mahmud Logged in successfully
+[2023-06-18 20:38:10] Connection in create_connection: <mysql.connector.connection_cext.CMySQLConnection object at 0x000001CBD33E5050>
+[2023-06-18 20:38:13] Add a new record selected.
+[2023-06-18 20:38:13] Field created: #1
+[2023-06-18 20:38:13] Field created: #2
+[2023-06-18 20:38:13] Field created: #3
+[2023-06-18 20:38:13] Field created: #4
+[2023-06-18 20:38:13] Field created: #5
+[2023-06-18 20:38:13] Field created: #6
+[2023-06-18 20:38:13] Field created: #7
+[2023-06-18 20:38:13] Field created: #8
+[2023-06-18 20:38:13] Field created: #9
+[2023-06-18 20:38:13] Field created: #10
+[2023-06-18 20:38:13] Field created: #11
+[2023-06-18 20:38:13] Field created: #12
+[2023-06-18 20:38:14] Field created: #13
+[2023-06-18 20:38:17] View records selected.
+[2023-06-18 20:38:17] 11 total records called.
+[2023-06-18 20:38:22] Mahmud logged out.
+[2023-06-18 20:38:22] Login page generated
+[2023-06-18 20:38:23] ||Closing Log||
+[2023-06-18 22:45:07] --Beginning Log--
+[2023-06-18 22:45:07] Login page generated
+[2023-06-18 22:45:08] ||Closing Log||

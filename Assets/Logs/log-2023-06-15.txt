@@ -1,0 +1,135 @@
+[2023-06-15 00:12:30] --Beginning Log--
+[2023-06-15 00:12:31] Login page generated
+[2023-06-15 00:12:41] Mahmud Logged in successfully
+[2023-06-15 00:12:41] Connection in create_connection: <Assets.libraries.mysql.connector.connection_cext.CMySQLConnection object at 0x000001C5011ABE10>
+[2023-06-15 00:12:44] Add a new record selected.
+[2023-06-15 00:12:44] Field created: #1
+[2023-06-15 00:12:44] Field created: #2
+[2023-06-15 00:12:44] Field created: #3
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Users\21892\AppData\Local\Programs\Python\Python311\Lib\tkinter\__init__.py", line 1948, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\Main.py", line 347, in create_add_record
+    WindowCreate = AddForm.AddRecordWindow(window, connection)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\Assets\Scripts\AddForm.py", line 37, in __init__
+    self.generate_form(connection)
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\Assets\Scripts\AddForm.py", line 298, in generate_form
+    entry = column_generators[column_name](frame, connection)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\21892\Desktop\games and stuff\Python\Invoices Database SmartSystemSolutions\InvoicesDatabaseSSSLY\Assets\Scripts\AddForm.py", line 73, in generate_invoice_date
+    invoice_date_entry = dateentry(root, date_pattern='yyyy-mm-dd')
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'module' object is not callable
+[2023-06-15 00:12:51] View records selected.
+[2023-06-15 00:12:51] 10 total records called.
+[2023-06-15 00:13:01] Mahmud logged out.
+[2023-06-15 00:13:01] Login page generated
+[2023-06-15 00:13:01] ||Closing Log||
+[2023-06-15 00:15:34] --Beginning Log--
+[2023-06-15 00:15:34] Login page generated
+[2023-06-15 00:15:38] Mahmud Logged in successfully
+[2023-06-15 00:15:38] Connection in create_connection: <Assets.libraries.mysql.connector.connection_cext.CMySQLConnection object at 0x00000197850ABC90>
+[2023-06-15 00:15:40] Add a new record selected.
+[2023-06-15 00:15:40] Field created: #1
+[2023-06-15 00:15:40] Field created: #2
+[2023-06-15 00:15:40] Field created: #3
+[2023-06-15 00:15:40] Field created: #4
+[2023-06-15 00:15:40] Field created: #5
+[2023-06-15 00:15:40] Field created: #6
+[2023-06-15 00:15:40] Field created: #7
+[2023-06-15 00:15:40] Field created: #8
+[2023-06-15 00:15:40] Field created: #9
+[2023-06-15 00:15:40] Field created: #10
+[2023-06-15 00:15:40] Field created: #11
+[2023-06-15 00:15:40] Field created: #12
+[2023-06-15 00:15:40] Field created: #13
+[2023-06-15 00:17:03] Mahmud logged out.
+[2023-06-15 00:17:03] Login page generated
+[2023-06-15 00:17:06] ||Closing Log||
+[2023-06-15 00:17:56] --Beginning Log--
+[2023-06-15 00:17:56] Login page generated
+[2023-06-15 00:18:00] ||Closing Log||
+[2023-06-15 00:18:02] --Beginning Log--
+[2023-06-15 00:18:02] Login page generated
+[2023-06-15 00:18:03] ||Closing Log||
+[2023-06-15 00:18:06] --Beginning Log--
+[2023-06-15 00:18:07] Login page generated
+[2023-06-15 00:18:09] ||Closing Log||
+[2023-06-15 00:18:13] --Beginning Log--
+[2023-06-15 00:18:13] Login page generated
+[2023-06-15 00:18:15] Login page generated
+[2023-06-15 00:18:16] Login page generated
+[2023-06-15 00:18:16] Login page generated
+[2023-06-15 00:18:18] ||Closing Log||
+[2023-06-15 00:49:02] --Beginning Log--
+[2023-06-15 00:49:03] Login page generated
+[2023-06-15 00:49:08] Mahmud Logged in successfully
+[2023-06-15 00:49:08] Connection in create_connection: <Assets.libraries.mysql.connector.connection_cext.CMySQLConnection object at 0x000001C6ED208F90>
+[2023-06-15 00:49:11] Add a new record selected.
+[2023-06-15 00:49:11] Field created: #1
+[2023-06-15 00:49:11] Field created: #2
+[2023-06-15 00:49:11] Field created: #3
+[2023-06-15 00:49:11] Field created: #4
+[2023-06-15 00:49:11] Field created: #5
+[2023-06-15 00:49:11] Field created: #6
+[2023-06-15 00:49:11] Field created: #7
+[2023-06-15 00:49:11] Field created: #8
+[2023-06-15 00:49:11] Field created: #9
+[2023-06-15 00:49:11] Field created: #10
+[2023-06-15 00:49:11] Field created: #11
+[2023-06-15 00:49:11] Field created: #12
+[2023-06-15 00:49:11] Field created: #13
+[2023-06-15 00:49:20] Mahmud logged out.
+[2023-06-15 00:49:20] Login page generated
+[2023-06-15 00:49:24] Login page generated
+[2023-06-15 00:49:25] Login page generated
+[2023-06-15 00:49:27] Login page generated
+[2023-06-15 00:49:28] ||Closing Log||
+[2023-06-15 02:06:00] --Beginning Log--
+[2023-06-15 02:06:00] Login page generated
+[2023-06-15 02:06:10] Mahmud Logged in successfully
+[2023-06-15 02:06:10] Connection in create_connection: <Assets.libraries.mysql.connector.connection_cext.CMySQLConnection object at 0x000001A3B0DC3150>
+[2023-06-15 02:06:14] Add a new record selected.
+[2023-06-15 02:06:14] Field created: #1
+[2023-06-15 02:06:14] Field created: #2
+[2023-06-15 02:06:14] Field created: #3
+[2023-06-15 02:06:14] Field created: #4
+[2023-06-15 02:06:14] Field created: #5
+[2023-06-15 02:06:14] Field created: #6
+[2023-06-15 02:06:14] Field created: #7
+[2023-06-15 02:06:14] Field created: #8
+[2023-06-15 02:06:14] Field created: #9
+[2023-06-15 02:06:14] Field created: #10
+[2023-06-15 02:06:14] Field created: #11
+[2023-06-15 02:06:14] Field created: #12
+[2023-06-15 02:06:15] Field created: #13
+[2023-06-15 02:06:19] Mahmud logged out.
+[2023-06-15 02:06:19] Login page generated
+[2023-06-15 02:06:21] ||Closing Log||
+[2023-06-15 12:24:24] --Beginning Log--
+[2023-06-15 12:24:24] Login page generated
+[2023-06-15 12:24:33] Mahmud Logged in successfully
+[2023-06-15 12:24:33] Connection in create_connection: <mysql.connector.connection_cext.CMySQLConnection object at 0x0000020B04B82790>
+[2023-06-15 12:24:36] Add a new record selected.
+[2023-06-15 12:24:36] Field created: #1
+[2023-06-15 12:24:36] Field created: #2
+[2023-06-15 12:24:36] Field created: #3
+[2023-06-15 12:24:36] Field created: #4
+[2023-06-15 12:24:36] Field created: #5
+[2023-06-15 12:24:36] Field created: #6
+[2023-06-15 12:24:36] Field created: #7
+[2023-06-15 12:24:36] Field created: #8
+[2023-06-15 12:24:36] Field created: #9
+[2023-06-15 12:24:36] Field created: #10
+[2023-06-15 12:24:36] Field created: #11
+[2023-06-15 12:24:36] Field created: #12
+[2023-06-15 12:24:36] Field created: #13
+[2023-06-15 12:24:48] View records selected.
+[2023-06-15 12:24:48] 10 total records called.
+[2023-06-15 12:24:53] Mahmud logged out.
+[2023-06-15 12:24:54] Login page generated
+[2023-06-15 12:24:55] Login page generated
+[2023-06-15 12:26:11] ||Closing Log||
